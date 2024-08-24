@@ -1,6 +1,6 @@
 ---
 
-**Project Title: Aerofit - Descriptive Statistics & Probability Analysis**
+# **Aerofit - Descriptive Statistics & Probability Analysis**
 
 ### Situation
 Aerofit, a prominent brand in the fitness equipment industry, offers a range of treadmills to a diverse customer base. The company needed a comprehensive analysis to identify customer profiles and understand the target audience for each treadmill model (KP281, KP481, and KP781). This was critical for enhancing targeted marketing strategies, optimizing product positioning, and increasing overall market share.
